@@ -9,3 +9,7 @@
 * Phase I: Data Acquisition & Transformation
 * Phase II: Data Visualization & Communication 
 * Phase III: Exploratory Data Mining
+
+About Me:
+
+- **Tools this semester:** R, RStudio, Git
