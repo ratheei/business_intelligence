@@ -4,7 +4,7 @@
 
 A querychat app built in ISA 401 at Miami University that lets users ask questions about Airbnb listings in Chicago, Columbus, and the Twin Cities. The app uses a SQLite database and translates natural language questions into SQL queries.
 
-**Live app:** Paste your Render URL here after deployment.
+**Live app:** https://midwest-airbnb-chat-kodt.onrender.com/
 
 ---
 
