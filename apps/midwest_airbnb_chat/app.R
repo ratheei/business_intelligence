@@ -37,6 +37,7 @@ ui <- bslib::page_sidebar(
   bslib::card(
     bslib::card_header("About This Dataset"),
     bslib::card_body(
+      "Built by Everett Rathe for ISA 401 at Miami University."
       "This app uses the Midwest Airbnb Listings dataset from Inside Airbnb. ",
       "The dataset contains 14,887 listings from Chicago, Columbus, and the Twin Cities. ",
       "Snapshot dates are July 20, 2026 for Chicago, July 23, 2026 for Columbus, ",
